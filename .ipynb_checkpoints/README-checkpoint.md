@@ -49,10 +49,10 @@ Data was obtained from the NASA Near-Earth Object API.
 
 ## Project Structure
 
-├── asteroid_analysis.ipynb  
-├── asteroid_data.csv  
-├── asteroid_database.db  
-├── README.md  
+├─ asteroid_analysis.ipynb  
+├─ asteroid_data.csv  
+├─ asteroid_database.db  
+├─ README.md  
 
 ## Future Improvements
 
