@@ -1,6 +1,6 @@
 # NASA Asteroid Analysis
 
-This project uses NASA's Near-Earth Object API to analyze asteroids approaching Earth over a seven-day period.
+This project uses NASA's Near-Earth Object API to analyze asteroids approaching Earth over seven days.
 
 ## Technologies Used
 
@@ -23,5 +23,5 @@ This project uses NASA's Near-Earth Object API to analyze asteroids approaching 
 ## Key Findings
 
 - Most asteroids were not classified as hazardous.
-- The closest asteroid approached Earth at X miles.
-- The largest asteroid had an estimated maximum diameter of Y feet.
+- The closest asteroid, **1997 NC1**, approaches Earth on **2026-06-27** at **1594339.75** miles.  		
+- The largest asteroid, **1997 NC1**, has an estimated maximum diameter of **5200.26** feet.
