@@ -63,5 +63,5 @@ Data was obtained from the NASA Near-Earth Object API.
 
 ## Author
 
-Herb
+Herb Sneed
 
