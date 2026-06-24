@@ -36,13 +36,12 @@ Data was obtained from the NASA Near-Earth Object API.
 
 ## Visualizations
 
-### Relationship between asteroid size and miss distance
 ![Asteroid Size and Miss Distance](images/relationship-between-asteroid-size-and-miss-distance.png)
-### Distribution of asteroid sizes
+
 ![Asteroid Size Distribution](images/distribution-of-asteroid-sizes.png)
-### Hazardous vs. non-hazardous asteroids
+
 ![Hazardous vs Non-Hazardous](images/asteroids-hazardous-to-the-earth.png)
-### Asteroid close approach timeline (next 3 days)
+
 ![Close Approad in Next 3 days](images/asteroid-close-approach-timeline-in-the-next-3-days.png)
 
 > **Data Snapshot:** Charts were generated using NASA NEO API data retrieved on June 24, 2026.
