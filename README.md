@@ -41,7 +41,7 @@ Data was obtained from the NASA Near-Earth Object API.
 ### Distribution of asteroid sizes
 ![Asteroid Size Distribution](images/distribution-of-asteroid-sizes.png)
 ### Hazardous vs. non-hazardous asteroids
-![Hazardous vs Non Hazardous](images/Asteroids Hazardous to the Earth.png)
+![Hazardous vs Non-Hazardous](images/asteroids-hazardous-to-the-earth.png)
 ### Asteroid close approach timeline (next 3 days)
 ![Close Approad in Next 3 days](images/asteroid-close-approach-timeline-in-the-next-3-days.png)
 
